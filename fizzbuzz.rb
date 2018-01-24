@@ -9,3 +9,5 @@ def fizzbuzz(int)
     return nil 
   end
 end
+
+int % 3 == 0 && int % 5 == 0 
